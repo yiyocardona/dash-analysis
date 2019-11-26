@@ -35,8 +35,23 @@ After using Tableau we have a lot of information and we found the next insight.
 Every insight will be display in the file of Tableau as a screenshot.
 
 
-* Active addresses vs time 
-    the active addresses are the addresses that made a transaction in the last 24 hours
+* Active addresses vs time   
+    the active addresses are the addresses that made a transaction in the last 24 hours. 
+    
+* Hash rate vs time  
+
+* Hash rate and active addresses vs time  
+
+* Miners Profit vs time  
+
+* Median difficulty vs time, average in 7 days  
+
+* Transferred value, numbers of transactions vs time  
+
+* total of addresses, addresses with more than $10 and 1000 DASH and which addresses with more than 1000 Dash are nodes vs time
+
+
+    
 
 
 
