@@ -2,6 +2,18 @@
 
 The purpose of this project is to analyze the *dash* blockchain in general, the blocks and the transaction from August 1st of 2018 to September 30th of 2019.
 
+## Understanding the Dash blockchain
+
+It was created in January 4th of 2014 and it started with the name of Darkcoin, it is a Litecoin code based which is based on bitcoins code and they forked the network to create Dash.
+InstandSend transaccitions 1.3 seg. 
+
+Block time is 2.5 is mining difficulty is able to be adjusted in every single block algorithm dark gravity wave of 2 MB.
+
+~ 56 transaction per second.
+
+Dash mining algorithm is called X11 hashrate is 500gigahashes per second
+
+
 ## Objective
 
 Our main objective is to analyze Dash between all the variables that the blockchain has, we would like to find some insights in the data to have a better understanding of how dash works and see the some interesting data within the time.
