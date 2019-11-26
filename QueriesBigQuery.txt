@@ -1,0 +1,7 @@
+SELECT block_timestamp, ARRAY_TO_STRING(addresses , ",") as address, type, value FROM `bigquery-public-data.crypto_dash.outputs` WHERE block_timestamp >= '2018-08-01' save in OutputTransactions
+
+
+select block_timestamp, address, sum(value) from dash.OutputTransactions group by 1,2;  save in GropuByOutputTransactions
+
+
+
